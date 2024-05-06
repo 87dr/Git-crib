@@ -1,2 +1,1 @@
-# Git-crib
-Git-crib
+#1. git init
